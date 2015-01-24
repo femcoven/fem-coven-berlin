@@ -5,7 +5,7 @@ description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: hystereo-fruit-little.png # 400x250 px default teaser image used in image archive grid
 locale:
-# url:
+url: https://femcoven.github.io/fem-coven-berlin
 
 # Jekyll configuration
 
