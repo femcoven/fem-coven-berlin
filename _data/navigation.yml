@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Schedule
+  url: /schedule/
+  excerpt: "Upcoming meetings and events"
+  #image:
+
+- title: Projects
+  url: /projects/
+  excerpt: "Fem-Coven-related projects"
+  #image:
+
+- title: About
+  url: /about/
+  excerpt: "We are all kinds of bad-ass"
+  #image:
+
+- title: Hystereo
+  url: /hystereo/
+  excerpt: "Radio show affiliated with Fem Coven"
+  #image:

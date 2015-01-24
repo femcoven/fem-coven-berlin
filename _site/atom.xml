@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Fem Coven Berlin</title>
+    <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+		<icon>/apple-touch-icon-precomposed.png</icon>
+    <subtitle></subtitle>
+    <link href="/atom.xml" rel="self"/>
+    <link href="/" rel="alternate" type="text/html"/>
+    <updated>2015-01-24T19:57:13+01:00</updated>
+    <id>/</id>
+    <author>
+			<name></name>
+			<uri>/</uri>
+			
+		</author>
+
+    
+    <entry>
+        <title>DESIRE</title>
+        <link href="/past/desire/"/>
+        <updated>2015-01-22T00:00:00+01:00</updated>
+        <id>/past/desire</id>
+        <author>
+					<name></name>
+					<uri>/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;Jan. 22, 2015&lt;/p&gt;
+
+&lt;p&gt;Featuring presentation and workshop led by &lt;a href=&quot;http://melissasteckbauer.weebly.com/&quot;&gt;Melissa Steckbauer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/419365814893158/&quot;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>STRUCTURELESSNESS + INTROSPECTION + POTLUCK</title>
+        <link href="/past/structurelessness/"/>
+        <updated>2014-12-11T00:00:00+01:00</updated>
+        <id>/past/structurelessness</id>
+        <author>
+					<name></name>
+					<uri>/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;Dec. 11, 2014&lt;/p&gt;
+
+&lt;p&gt;Reading: &lt;a href=&quot;http://www.jofreeman.com/joreen/tyranny.htm&quot;&gt;The Tyranny of Structurelessness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1569638829935906/&quot;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>SEXING THE BODY I - INTERSEXUALITY</title>
+        <link href="/past/intersexuality/"/>
+        <updated>2014-11-20T00:00:00+01:00</updated>
+        <id>/past/intersexuality</id>
+        <author>
+					<name></name>
+					<uri>/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;Nov. 20, 2014&lt;/p&gt;
+
+&lt;p&gt;Reading: Anne Fausto-Sterling, &lt;a href=&quot;http://www.amazon.com/Sexing-Body-Politics-Construction-Sexuality/dp/0465077145&quot;&gt;Sexing the Body&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/798997820156691/&quot;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+</feed>
