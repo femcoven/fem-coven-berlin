@@ -6,7 +6,7 @@ date:
 modified:
 excerpt:
 image:
-  feature: loc-03058v.jpg
+  feature: loc-03058v-wide.jpg
   credit: Library of Congress
   creditlink: http://www.loc.gov/pictures/collection/fsac/item/fsa1992001600/PP/
   teaser:
