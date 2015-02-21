@@ -1,29 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+    
+
     <title>Fem Coven Berlin</title>
     <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
-		<icon>/apple-touch-icon-precomposed.png</icon>
+		<icon>https://femcoven.github.io/fem-coven-berlin/apple-touch-icon-precomposed.png</icon>
     <subtitle></subtitle>
-    <link href="/atom.xml" rel="self"/>
-    <link href="/" rel="alternate" type="text/html"/>
-    <updated>2015-01-24T20:22:39+01:00</updated>
-    <id>/</id>
+    <link href="https://femcoven.github.io/fem-coven-berlin/atom.xml" rel="self"/>
+    <link href="https://femcoven.github.io/fem-coven-berlin/" rel="alternate" type="text/html"/>
+    <updated>2015-02-21T15:52:42+01:00</updated>
+    <id>https://femcoven.github.io/fem-coven-berlin/</id>
     <author>
 			<name></name>
-			<uri>/</uri>
+			<uri>https://femcoven.github.io/fem-coven-berlin/</uri>
 			
 		</author>
 
     
     <entry>
-        <title>DESIRE</title>
-        <link href="/past/desire/"/>
-        <updated>2015-01-22T00:00:00+01:00</updated>
-        <id>/past/desire</id>
+        <title>FEMINIST COMICS WORKSHOP</title>
+        <link href="https://femcoven.github.io/fem-coven-berlin/past/comics/"/>
+        <updated>2015-02-19T00:00:00+01:00</updated>
+        <id>https://femcoven.github.io/fem-coven-berlin/past/comics</id>
         <author>
 					<name></name>
-					<uri>/</uri>
+					<uri>https://femcoven.github.io/fem-coven-berlin/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;Feb. 19, 2015&lt;/p&gt;
+
+&lt;p&gt;Feminist comics drawing workshop and discussion - bring your own art supplies!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/797284036985989/&quot;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>FC WORKING GROUPS I</title>
+        <link href="https://femcoven.github.io/fem-coven-berlin/past/working-I/"/>
+        <updated>2015-02-05T00:00:00+01:00</updated>
+        <id>https://femcoven.github.io/fem-coven-berlin/past/working-I</id>
+        <author>
+					<name></name>
+					<uri>https://femcoven.github.io/fem-coven-berlin/</uri>
+					
+				</author>
+        <content type="html">
+        	
+        	&lt;p&gt;Feb. 5, 2015&lt;/p&gt;
+
+&lt;p&gt;Discussion / brainstorm surrounding current Fem Coven &lt;a href=&quot;https://femcoven.github.io/fem-coven-berlin/projects/&quot;&gt;projects&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1687795904780343/&quot;&gt;Facebook event&lt;/a&gt;&lt;/p&gt;
+
+        </content>
+    </entry>
+    
+    <entry>
+        <title>DESIRE</title>
+        <link href="https://femcoven.github.io/fem-coven-berlin/past/desire/"/>
+        <updated>2015-01-22T00:00:00+01:00</updated>
+        <id>https://femcoven.github.io/fem-coven-berlin/past/desire</id>
+        <author>
+					<name></name>
+					<uri>https://femcoven.github.io/fem-coven-berlin/</uri>
 					
 				</author>
         <content type="html">
@@ -39,12 +83,12 @@
     
     <entry>
         <title>STRUCTURELESSNESS + INTROSPECTION + POTLUCK</title>
-        <link href="/past/structurelessness/"/>
+        <link href="https://femcoven.github.io/fem-coven-berlin/past/structurelessness/"/>
         <updated>2014-12-11T00:00:00+01:00</updated>
-        <id>/past/structurelessness</id>
+        <id>https://femcoven.github.io/fem-coven-berlin/past/structurelessness</id>
         <author>
 					<name></name>
-					<uri>/</uri>
+					<uri>https://femcoven.github.io/fem-coven-berlin/</uri>
 					
 				</author>
         <content type="html">
@@ -60,12 +104,12 @@
     
     <entry>
         <title>SEXING THE BODY I - INTERSEXUALITY</title>
-        <link href="/past/intersexuality/"/>
+        <link href="https://femcoven.github.io/fem-coven-berlin/past/intersexuality/"/>
         <updated>2014-11-20T00:00:00+01:00</updated>
-        <id>/past/intersexuality</id>
+        <id>https://femcoven.github.io/fem-coven-berlin/past/intersexuality</id>
         <author>
 					<name></name>
-					<uri>/</uri>
+					<uri>https://femcoven.github.io/fem-coven-berlin/</uri>
 					
 				</author>
         <content type="html">

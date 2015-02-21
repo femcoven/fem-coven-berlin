@@ -1,47 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/past/desire/</loc>
+    <loc>https://femcoven.github.io/fem-coven-berlin/past/comics/</loc>
+    <lastmod>2015-02-19T00:00:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://femcoven.github.io/fem-coven-berlin/past/working-I/</loc>
+    <lastmod>2015-02-05T00:00:00+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://femcoven.github.io/fem-coven-berlin/past/desire/</loc>
     <lastmod>2015-01-22T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/past/structurelessness/</loc>
+    <loc>https://femcoven.github.io/fem-coven-berlin/past/structurelessness/</loc>
     <lastmod>2014-12-11T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/past/intersexuality/</loc>
+    <loc>https://femcoven.github.io/fem-coven-berlin/past/intersexuality/</loc>
     <lastmod>2014-11-20T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/about/</loc>
-    <lastmod>2015-01-24T20:22:39+01:00</lastmod>
+    <loc>https://femcoven.github.io/fem-coven-berlin/about/</loc>
+    <lastmod>2015-02-21T15:52:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/hystereo/</loc>
-    <lastmod>2015-01-24T20:22:39+01:00</lastmod>
+    <loc>https://femcoven.github.io/fem-coven-berlin/hystereo/</loc>
+    <lastmod>2015-02-21T15:52:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/</loc>
-    <lastmod>2015-01-24T20:22:39+01:00</lastmod>
+    <loc>https://femcoven.github.io/fem-coven-berlin/</loc>
+    <lastmod>2015-02-21T15:52:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/projects/</loc>
-    <lastmod>2015-01-24T20:22:39+01:00</lastmod>
+    <loc>https://femcoven.github.io/fem-coven-berlin/projects/</loc>
+    <lastmod>2015-02-21T15:52:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/schedule/</loc>
-    <lastmod>2015-01-24T20:22:39+01:00</lastmod>
+    <loc>https://femcoven.github.io/fem-coven-berlin/schedule/</loc>
+    <lastmod>2015-02-21T15:52:42+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
